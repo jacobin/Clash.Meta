@@ -18,7 +18,11 @@
   </a>
 </p>
 
+<<<<<<< HEAD
 ## Foreword
+=======
+## foreword
+>>>>>>> df6d77c17cb7a45ed015696980c2cc61559cbd8d
 
  - This repository is copied from "MetaCubeX/Clash.Meta", which is "https://github.com/MetaCubeX/Clash.Meta.git".
 And "MetaCubeX/Clash.Meta" is a fork of "Dreamacro/clash".
